@@ -1,2 +1,4 @@
 IT is so a planet!
 We added a different line in the other copy
+This line is added to Wolfman's copy
+We removed the conflict on this line
